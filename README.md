@@ -1,2 +1,2 @@
 # coursera-HTML
-coursera HTML courser repository
+coursera HTML course repository
